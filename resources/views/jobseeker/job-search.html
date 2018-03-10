@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <meta charset="utf-8">
+     <title>Job Search | Job ShowRoom </title>
+     <meta name="description" content="Job ShowRoom , Job portal Nepal">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <!--Google fonts links-->
+      <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
+      <!--Font awesome-->
+      <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+      <!--Core css -->
+      <link rel="stylesheet" href="../css/bootstrap.min.css">
+      <link href="../css/animate.min.css" rel="stylesheet">
+      <!-- Owl Stylesheets -->
+      <link rel="stylesheet" href="../css/owl.carousel.min.css">
+      <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+      <link rel="stylesheet" href="../css/select2.min.css">
+      <link rel="stylesheet" href="../css/style.css">
+      <!-- Responsive css-->
+      <link rel="stylesheet" href="../css/responsive.css" />
+      <!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body>
+      <nav class="navbar navbar-default">
+         <div class="container">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+               <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+               <span class="sr-only">Toggle navigation</span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               <span class="icon-bar"></span>
+               </button>
+               <a class="navbar-brand" href="#"><img src="../images/logo.png" alt="Logo" class="img-responsive" /></a>
+            </div>
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <!-- Top Menu Items -->
+            <ul class="nav navbar-right top-nav hidden-xs">
+               <li class="dropdown">
+                  <a href="#" class="dropdown-toggle" data-toggle="dropdown"><img class="img-circle" src="../images/avatar-pic.png" alt=""> <span class="fa fa-caret-down"></span></a>
+                  <ul class="dropdown-menu">
+                     <li><a href="#"><i class="fa fa-fw fa-user"></i> Edit Profile</a></li>
+                     <li><a href="#"><i class="fa fa-fw fa-cog"></i> Change Password</a></li>
+                     <li class="divider"></li>
+                     <li><a href="#"><i class="fa fa-fw fa-power-off"></i> Logout</a></li>
+                  </ul>
+               </li>
+            </ul>
+         </div>
+         <!-- /.container -->
+      </nav>
+      <div class="page-wrapper">
+         <div class="container">
+            <!-- content -->
+            <div class="content dashboard-container">
+               <div class="row">
+                  <div class="col-xs-12 col-sm-12 col-md-4">
+                     <div class="section left-bar">
+                        <!-- job search -->
+                        <div class="box">
+                           <div class="box-header">
+                              <span><strong>Search Job </strong>
+                           </div>
+                           <div class="box-body">
+                              <div class="row">
+                                 <div class="col-xs-12 col-sm-12 col-md-12">
+                                    <div class="input-group">
+                                       <input type="text" class="form-control" placeholder="What are looking for..">
+                                       <span class="input-group-btn">
+                                       <button class="btn btn-secondary" type="button">
+                                       <i class="fa fa-search" aria-hidden="true"></i></button>
+                                       </span>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                        </div>
+                        <!-- /.job search -->
+                        <div class="box">
+                           <!-- side-menu -->
+                           <div class="side-menu">
+                              <nav class="navbar navbar-default" role="navigation">
+                                 <div class="side-menu-container">
+                                    <ul class="nav navbar-nav">
+                                       <li class="active"><a href="overview.blade.php"><i class="fa fa-tachometer" aria-hidden="true"></i> Overview</a>
+                                       </li>
+                                       <li><a href="my-profile.blade.php"><i class="fa fa-user" aria-hidden="true"></i> My Profile</a></li>
+                                       <!-- Dropdown-->
+                                       <li class="panel panel-default" id="dropdown">
+                                          <a data-toggle="collapse" href="#dropdown-1">
+                                          <i class="fa fa-pencil-square-o" aria-hidden="true"></i> Edit Profile <span class="caret"></span>
+                                          </a>
+                                          <!-- Dropdown level 1 -->
+                                          <div id="dropdown-1" class="panel-collapse collapse">
+                                             <div class="panel-body">
+                                                <ul class="nav navbar-nav">
+                                                   <li><a href="job-preference.html">Job Preference</a></li>
+                                                   <li><a href="basic-info.html">Basic Information</a></li>
+                                                   <li><a href="education.blade.php">Education</a></li>
+                                                   <li><a href="training.html">Training</a></li>
+                                                   <li><a href="workexperience.blade.php">Work Experience</a></li>
+                                                   <li><a href="document.html">Document</a></li>
+                                                   <li><a href="social-account.html">Social Account</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </li>
+                                       <li><a href="#"><i class="fa fa-bar-chart" aria-hidden="true"></i> My Status</a></li>
+                                       <!-- Dropdown-->
+                                       <li class="panel panel-default" id="dropdown">
+                                          <a data-toggle="collapse" href="#dropdown-2">
+                                          <i class="fa fa-cog" aria-hidden="true"></i>Setting <span class="caret"></span>
+                                          </a>
+                                          <!-- Dropdown level 1 -->
+                                          <div id="dropdown-2" class="panel-collapse collapse">
+                                             <div class="panel-body">
+                                                <ul class="nav navbar-nav">
+                                                   <li><a href="#">Privacy Setting</a></li>
+                                                   <li><a href="change-email.html">Change Email</a></li>
+                                                   <li><a href="#">Change Password</a></li>
+                                                   <li><a href="#">Social Account</a></li>
+                                                   <li><a href="#">Work Experience</a></li>
+                                                   <li><a href="#">Deactive Accounts</a></li>
+                                                </ul>
+                                             </div>
+                                          </div>
+                                       </li>
+                                    </ul>
+                                 </div>
+                                 <!-- /.navbar-collapse -->
+                              </nav>
+                           </div>
+                           <!-- /.side-menu -->
+                        </div>
+                     </div>
+                  </div>
+                  <div class="col-xs-12 col-sm-12 col-md-8 no-padding">
+                     <!-- main-bar -->
+                     <div class="section main-bar dashboard-content">
+                        <div class="row">
+                           <div class="col-xs-12 col-sm-12 col-md-12">
+                              <div class="box advanced-search">
+                                 <div class="box-header">
+                                    <span><strong>Advanced Search </strong>
+                                 </div>
+                                 <div class="box-body">
+                                    <div class="row">
+                                       <form method="POST" action="#" class="form-horizontal edit-form">
+                                          <div class="col-sm-6">
+                                             <div class="form-group">
+                                                <div class="col-sm-4  text-right">
+                                                   <label for="full name" class="control-label">Job Categories:</label>
+                                                </div>
+                                                <div class="col-sm-8">
+                                                   <select class="select2" multiple>
+                                                      <option value="1">Technician</option>
+                                                      <option value="2">Programming / Graphics / Designing</option>
+                                                      <option value="3">Search Engine Optimization (SEO)</option>
+                                                      <option value="4">Cloud Computing</option>
+                                                      <option value="5">Accounting / Finance</option>
+                                                      <option value="6">Pharma / Biotech</option>
+                                                      <option value="7">Architecture / Interior Designing</option>
+                                                      <option value="8">Banking / Financial Services</option>
+                                                      <option value="9">Logistics / Supply Chain / Procurement</option>
+                                                      <option value="10">Project Management</option>
+                                                      <option value="11">Construction / Engineering</option>
+                                                      <option value="12">Fashion / Textile Designing</option>
+                                                      <option value="13">Management / Operations</option>
+                                                      <option value="14">Hospitality</option>
+                                                      <option value="15">Human Resource</option>
+                                                      <option value="16">Telecommunication</option>
+                                                      <option value="17">Journalism / Editor / Media</option>
+                                                      <option value="18">Legal Services</option>
+                                                      <option value="19">Marketing / Advertising</option>
+                                                      <option value="20">NGO / INGO / Social work</option>
+                                                      <option value="21">Maintenance / Quality</option>
+                                                      <option value="22">Security Services</option>
+                                                      <option value="23">Research and Development</option>
+                                                      <option value="24">Sales / Distribution</option>
+                                                      <option value="25">Secretary</option>
+                                                      <option value="26">Teaching / Education</option>
+                                                      <option value="27">Others</option>
+                                                      <option value="28">Purchasing / Procurement</option>
+                                                      <option value="29">Manufacturing / Production</option>
+                                                      <option value="30">Training / Trainer</option>
+                                                      <option value="31">Public Relation</option>
+                                                      <option value="32">Professional Services</option>
+                                                      <option value="33">Internship</option>
+                                                      <option value="34">Finance / Administration</option>
+                                                      <option value="35">IT / Software</option>
+                                                      <option value="36">Business Development</option>
+                                                      <option value="37">Development Work/Consulting Service</option>
+                                                      <option value="38">Customer Service / Data Entry</option>
+                                                      <option value="39">Executive</option>
+                                                      <option value="40">Government</option>
+                                                      <option value="41">Healthcare / Medical</option>
+                                                      <option value="42">Agriculture / Livestock</option>
+                                                      <option value="43">Customer Service</option>
+                                                      <option value="44">Clerk</option>
+                                                      <option value="45">Various</option>
+                                                      <option value="46">IT / Database Management</option>
+                                                      <option value="47">Insurance</option>
+                                                      <option value="48">Aviation</option>
+                                                      <option value="49">Scholarship/Grant</option>
+                                                      <option value="50">EOI/Tender/Bids</option>
+                                                      <option value="51">Repair &amp; Maintenance</option>
+                                                      <option value="52">Computer Operator</option>
+                                                      <option value="53">Engineering/Civil /Architecture</option>
+                                                      <option value="54">Engineering - Computer/ Electrical</option>
+                                                      <option value="55">Promotion/Branding</option>
+                                                      <option value="56">Event Management</option>
+                                                      <option value="57">Development/ Program Managment</option>
+                                                      <option value="58">International Relation</option>
+                                                      <option value="59">Monitoring &amp; Evaluation</option>
+                                                      <option value="60">Driver</option>
+                                                      <option value="61">Documentation/Writing</option>
+                                                      <option value="62">Engineering</option>
+                                                      <option value="63">Cook / Catering</option>
+                                                      <option value="64">Engineering - Mechanical/Automobile</option>
+                                                      <option value="65">Front Desk</option>
+                                                      <option value="66">Travel / Tour / Ticketing</option>
+                                                   </select>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div class="col-sm-6">
+                                             <div class="form-group">
+                                                <div class="col-sm-4  text-right">
+                                                   <label for="full name" class="control-label">Industries :</label>
+                                                </div>
+                                                <div class="col-sm-8 ">
+                                                   <select class="select2" multiple>
+                                                      <option>Airlines / GSA</option>
+                                                      <option>Audit Firms / Tax Consultant</option>
+                                                      <option>Architecture / Interior Design Firm</option>
+                                                      <option>Advertising Agency</option>
+                                                      <option>Information / Computer / Technology</option>
+                                                      <option>Insurance Companies</option>
+                                                      <option>Software Companies</option>
+                                                      <option>Others</option>
+                                                   </select>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div class="col-sm-6">
+                                             <div class="form-group">
+                                                <div class="col-sm-4  text-right">
+                                                   <label for="full name" class="control-label">Level:</label>
+                                                </div>
+                                                <div class="col-sm-8">
+                                                   <select class="select2" multiple>
+                                                      <option value="1">Top Level</option>
+                                                      <option value="1">Senior Lavel</option>
+                                                      <option value="2">Mid Level</option>
+                                                      <option value="3">Entry Level</option>
+                                                   </select>
+                                                </div>
+                                             </div>
+                                          </div>
+                                          <div class="col-sm-6">
+                                             <div class="form-group">
+                                                <div class="col-sm-4  text-right">
+                                                   <label for="full name" class="control-label">Employment Type :</label>
+                                                </div>
+                                                <div class="col-sm-8 ">
+                                                   <select class="select2" multiple>
+                                                      <option>Full Time</option>
+                                                      <option>Part Time</option>
+                                                      <option>Contract</option>
+                                                   </select>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </form>
+                                    </div>
+                                 </div>
+                              </div>
+                              <!-- /.advanced-search -->
+                              <div class="box search-list">
+                                 <div class="box-header">
+                                    <span><strong>Showing 1 - 6 of 8 </strong>
+                                 </div>
+                                 <div class="box-body">
+                                    <div class="row">
+                                       <div class="col-sm-6 no-gutter">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><i class="fa fa-building" aria-hidden="true"></i>Experience : Not Required</li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                      <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="col-sm-6 ">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                       <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="col-sm-6 no-gutter">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><i class="fa fa-building" aria-hidden="true"></i>Experience : Not Required</li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                       <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="col-sm-6 ">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><i class="fa fa-building" aria-hidden="true"></i>Experience : Not Required</li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                       <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="col-sm-6 no-gutter">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><i class="fa fa-building" aria-hidden="true"></i>Experience : Not Required</li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                      <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                       <div class="col-sm-6 ">
+                                          <div class="box">
+                                             <div class="box-body">
+                                                <div class="company-content">
+                                                   <div class="img-holder">
+                                                      <img src="../images/company-logo.png" alt="company-logo">
+                                                   </div>
+                                                   <!-- /.image-holder -->
+                                                   <div class="content-info">
+                                                      <a href="#">
+                                                         <h3> Web Designer</h3>
+                                                      </a>
+                                                      <span >Facebook</span>
+                                                      <ul class="inline">
+                                                         <li><i class="fa fa-map-marker"></i>Tripureswor, Kathmandu</li>
+                                                         <li><i class="fa fa-building" aria-hidden="true"></i>Experience : Not Required</li>
+                                                      </ul>
+                                                   </div>
+                                                   <!-- /.company-info -->
+                                                </div>
+                                             </div>
+                                             <div class="box-footer">
+                                                <div class="pull-left">
+                                                   <span class="btn-small"><i class="fa fa-floppy-o" aria-hidden="true"></i>Save </span> <span class="btn-small"><i class="fa fa-share" aria-hidden="true"></i>Share </span>
+                                                </div>
+                                                <div class="pull-right">
+                                                   <ul class="inline">
+                                                       <li><span class="text-success">Views: 567</span>|<span>Deadline: 2 days</span></li>
+                                                   </ul>
+                                                </div>
+                                             </div>
+                                          </div>
+                                       </div>
+                                    </div>
+                                 </div>
+                              </div>
+                           </div>
+                           <!-- /.box -->
+                        </div>
+                     </div>
+                     <div class="container">
+                        <div class="row">
+                           <nav aria-label="Page navigation">
+                              <ul class="pagination">
+                                 <li><a href="#" aria-label="Previous">
+                                    <span aria-hidden="true">Prev</span>
+                                    </a>
+                                 </li>
+                                 <li class="active"><a href="#">1</a></li>
+                                 <li><a href="#">2</a></li>
+                                 <li><a href="#">3</a></li>
+                                 <li><a href="#">4</a></li>
+                                 <li><a href="#">5</a></li>
+                                 <li><a href="#" aria-label="Next"><span aria-hidden="true">Next</span>
+                                    </a>
+                                 </li>
+                              </ul>
+                           </nav>
+                        </div>
+                     </div>
+                  </div>
+                  <!-- /.main-bar -->
+               </div>
+            </div>
+         </div>
+         <!-- /.content -->
+      </div>
+      <!-- /.container -->
+      </div>
+      <!-- /.page-wrapper -->
+
+  <section id="footer-menu" class="footer-menu">
+        <div class="container">
+            <div class="row">
+                <div class="footer-menu-wrapper">
+
+                    <div class="col-md-8 col-sm-12 col-xs-12">
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="menu-item">
+
+                                <img src="images/logo-footer.png" alt="logo">
+                                <address> Kalanki <br>
+                              Kathmandu, Nepal
+                            </address>
+
+                                <h5>Contact Information </h5>
+                                <p>E: <a href="mailto:care@decadeint.com">info@showroom.com</a>
+                                    <br> P: (+977) 1 0000000, 0000000
+                                </p>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="menu-item">
+
+                                <h5>Quick Links</h5>
+                                <ul>
+
+                                    <li><a href="#">Home</a></li>
+                                    <li><a href="#">Search Jobs</a></li>
+                                    <li><a href="#">Jobseeker Login</a></li>
+                                    <li><a href="#">Employer Login </a> </li>
+                                    <li><a href="#">Feedback</a> </li>
+                                     <li><a href="news-listing.html">Jobs news</a> </li>
+                                    <li><a href="#">Contact Us</a> </li>
+
+
+                                </ul>
+
+                            </div>
+                        </div>
+
+                        <div class="col-md-4 col-sm-6 col-xs-12">
+                            <div class="menu-item">
+
+                                <h5>Legal</h5>
+                                <ul>
+                                    <li>PRIVACY & COOKIES</li>
+                                    <li>TERMS OF USE</li>
+                                    <li>TRADEMARKS</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 col-xs-12">
+                        <div class="menu-item">
+                            <h5>Newsletter</h5>
+                            <p>Insights await in your company's data. Bring them into focus with GPS .</p>
+                            <div class="input-group">
+                                <input type="text" class="form-control" placeholder="Enter your email address">
+                                <input type="submit" class="form-control" value="Subscribe">
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--footer-->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="footer-wrapper">
+
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="footer-brand">
+                            <p>Copyright &copy; 2017 Job ShowRoom . All Rights Reserved.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="copyright">
+                            <span>Site Powered by <a href="#" target="_blank">Job ShowRoom </a></span>
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!--/.footer-->
+      <div class="scrollup">
+         <a href="#"><i class="fa fa-chevron-up"></i></a>
+      </div>
+      <!--core js -->
+      <script src="../js/jquery.js"></script>
+      <script src="../js/bootstrap.min.js"></script>
+      <script src="../js/wow.min.js"></script>
+      <script src="../js/owl.carousel.min.js"></script>
+      <script src="../js/select2.min.js"></script>
+      <script src="../js/main.js"></script>
+      <script>
+         $('.select2').select2();  
+         
+         
+      </script>
+   </body>
+</html>

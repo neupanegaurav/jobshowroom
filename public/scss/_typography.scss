@@ -1,0 +1,131 @@
+/* import link for google font*/
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+
+
+// create font variable
+$roboto-serif: 'Roboto', sans-serif;
+$playfair-display:  'Playfair Display', serif;;
+$josefin:           'Josefin Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+$font-family-base:  $roboto-serif; // global font family
+$line-height-base:  1.71428571; // global line height
+
+// heading font variable
+$headings-font-family:     $font-family-base;
+$headings-font-weight:      400;
+$headings-line-height:      1.1;
+
+/* typography */
+body {
+  font-weight: 300;
+  font-family: $roboto-serif;
+  line-height: 2.1;
+  letter-spacing: 0.07143rem;
+}
+
+h1,
+h2,
+h3, 
+h4,
+h5,
+h6 {
+  margin: 0 0 1.071rem;
+  font-family: $headings-font-family;
+
+}
+
+// heading (h1)
+$h1-font-sizes: (
+  null  : (2.143rem, 1.2),
+  screen-small : 2.571rem,
+  screen-medium: 3rem,
+  screen-large : 3.429rem,
+  screen-extra-large : 3.857rem,
+  screen-wide: 4.286rem,
+);
+
+h1 {
+  @include font-size($h1-font-sizes);
+}
+
+// heading (h2)
+$h2-font-sizes: (
+  null  : (1.714rem, 1.2),
+  screen-small : 2.143rem,
+  screen-medium: 2.571rem,
+  screen-large : 3rem,
+  screen-extra-large : 3.429rem
+);
+
+// heading (h3)
+$h3-font-sizes: (
+  null  : (1.286rem, 1.2),
+  screen-small : 1.429rem,
+  screen-medium: 1.714rem,
+  screen-large : 2rem,
+  screen-extra-large : 2.143rem
+);
+
+h3 {
+  @include font-size($h3-font-sizes);
+  font-weight: 700;
+}
+
+// normal font variation
+$normal-font-sizes: (
+  null  : (1rem, 1.2),
+  screen-small : 1.071rem,
+  screen-medium: 1.143rem,
+  screen-large : 1.214rem,
+  screen-extra-large : 1.286rem
+);
+
+// small font variation
+$small-font-sizes: (
+  null  : (0.8571rem, 2)
+);
+
+// normal font variation
+$normal-font-m-sizes: (
+  null  : (1rem, 2.1),
+  screen-small : 1.071rem,
+  screen-medium: 1.143rem
+);
+
+// heading medium size
+$heading-m-sizes: (
+  null  : (1.429rem, 1.2),
+  screen-small : 1.714rem,
+  screen-medium: 1.857rem,
+  screen-large : 2rem,
+  screen-extra-large : 2.143rem
+);
+
+// heading medium size
+$heading-s-sizes: (
+  null  : (1.286rem, 1.2),
+  screen-small : 1.286rem,
+  screen-medium: 1.429rem,
+  screen-large : 1.571rem,
+  screen-extra-large : 1.714rem
+);
+
+// heading large size
+$heading-l-sizes: (
+  null  : (1.714rem, 1.2),
+  screen-small : 2rem,
+  screen-medium: 2.286rem,
+  screen-extra-large : 2.571rem
+);
+
+h2 {
+  @include font-size($heading-s-sizes);
+  font-weight: 700;
+  letter-spacing: 0.1643rem;
+}
+
+// button font family
+$button-font-family: $font-family-base;
+$button-font-weight: 400;

@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f58df12-6583-4088-8347-008a410b81f9" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="web.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="JobseekerController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="527">
+              <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="workexperience.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/workexperience.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="191" column="50" lean-forward="false" selection-start-line="191" selection-start-column="50" selection-end-line="191" selection-end-column="50" />
+              <folding>
+                <marker date="1516898758925" expanded="true" signature="9437:9446" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9437:9457" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9630:9654" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9675:9699" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9778:9791" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9778:9809" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9815:9850" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9921:9948" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="9955:9980" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="10050:10068" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="10050:10077" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="10147:10173" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="10687:10737" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="10961:11014" ph="..." />
+                <marker date="1516898758925" expanded="true" signature="11306:11356" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Authentication/LoginController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RegistrationController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Authentication/RegistrationController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="education.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/education.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3570">
+              <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+              <folding>
+                <marker date="1516895738543" expanded="true" signature="9044:9057" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="9791:9804" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10030:10052" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10224:10280" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10432:10467" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10481:10514" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10607:10629" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10634:10674" ph="..." />
+                <marker date="1516895738543" expanded="true" signature="10747:10778" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editworkexperience.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/editworkexperience.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4794">
+              <caret line="282" column="58" lean-forward="false" selection-start-line="282" selection-start-column="58" selection-end-line="282" selection-end-column="58" />
+              <folding>
+                <marker date="1516979736253" expanded="true" signature="9040:9086" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="9179:9198" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="9255:9267" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="9939:9956" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="9939:9960" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="9939:9964" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="10904:10945" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="11072:11115" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="11246:11292" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="11424:11468" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="12340:12361" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="13123:13141" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="13903:13921" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="14699:14720" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="15501:15508" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="15501:15513" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="15501:15522" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="16296:16315" ph="..." />
+                <marker date="1516979736253" expanded="true" signature="17120:17140" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="editeducation.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/editeducation.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4335">
+              <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+              <folding>
+                <marker date="1513705869304" expanded="true" signature="9579:9638" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="9735:9754" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="9815:9827" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="9936:9939" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="10631:10672" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="11528:11573" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="11715:11762" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="11858:11908" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="12984:13000" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="12984:13020" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="13828:13862" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="14663:14690" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="14663:14695" ph="..." />
+                <marker date="1513705869304" expanded="true" signature="15496:15528" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createducation.blade.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/create/createducation.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3247">
+              <caret line="191" column="14" lean-forward="false" selection-start-line="191" selection-start-column="14" selection-end-line="191" selection-end-column="14" />
+              <folding>
+                <marker date="1513706040379" expanded="true" signature="9687:9699" ph="..." />
+                <marker date="1513706040379" expanded="true" signature="9808:9811" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>footer</find>
+      <find>top-bar</find>
+      <find>J</find>
+      <find>edit bas</find>
+      <find>profile</find>
+      <find>edit</find>
+      <find>&lt;form</find>
+      <find>route</find>
+      <find>Sr. Ui-Ux Developer</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_175615_create_employeers_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_175756_create_employeer_infos_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_175831_create_employeer_social_accounts_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180047_create_jobseeker_educations_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180154_create_jobseeker_languages_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180239_create_jobseeker_otherinfos_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180402_create_jobseeker_social_accounts_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180325_create_jobseeker_references_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180917_create_jobseeker_work_experiences_table.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180437_create_jobseeker_trainings_table.php" />
+        <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/app/Providers/AppServiceProvider.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/header.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/basicinfo.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/topbar.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/views/index.blade.php" />
+        <option value="$PROJECT_DIR$/config/app.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/navigation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/register.blade.php" />
+        <option value="$PROJECT_DIR$/app/User.php" />
+        <option value="$PROJECT_DIR$/database/migrations/2017_12_04_180114_create_jobseeker_infos_table.php" />
+        <option value="$PROJECT_DIR$/resources/views/login.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/overview.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/basic_info.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/layouts/layout.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/my-profile.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/edit/edit_jobseekeer_basic_info.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerInfoController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Jobseeker/JobseekerEducation.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/edit/editeducation.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/create/createducation.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerController.php" />
+        <option value="$PROJECT_DIR$/app/Model/Jobseeker/JobseekerWorkExperience.php" />
+        <option value="$PROJECT_DIR$/app/Model/Jobseeker/JobseekerInfo.php" />
+        <option value="$PROJECT_DIR$/routes/web.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/create/createworkexperience.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/education.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Authentication/RegistrationController.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/workexperience.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerEducationInfoController.php" />
+        <option value="$PROJECT_DIR$/resources/views/jobseeker/edit/editworkexperience.blade.php" />
+        <option value="$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerWorkExperienceController.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit-mock-objects" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/vendor/cartalyst/sentinel" />
+      <path value="$PROJECT_DIR$/vendor/cartalyst/support" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/vendor/mtdowling/cron-expression" />
+      <path value="$PROJECT_DIR$/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/psy/psysh" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-27" />
+    <option name="y" value="-4" />
+    <option name="width" value="1313" />
+    <option name="height" value="665" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jobseeker" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jobseeker" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="create" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="jobshowroom" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jobshowroom" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="routes" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/educare" />
+    <property name="SearchEverywhereHistoryKey" value="mig&#9;FILE&#9;file://D:/jobshowroom/database/migrations&#10;web.php&#9;FILE&#9;file://D:/jobshowroom/routes/web.php&#10;filter.php&#9;FILE&#9;file://D:/jobshowroom/vendor/phpunit/php-code-coverage/src/Filter.php" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\jobshowroom\resources\views\jobseeker2" />
+      <recent name="D:\jobshowroom\resources\views\jobseeker\edit" />
+      <recent name="D:\jobshowroom\resources\views\jobseeker\create" />
+      <recent name="D:\jobshowroom\resources\views\jobseeker" />
+      <recent name="D:\jobshowroom\resources\views" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f58df12-6583-4088-8347-008a410b81f9" name="Default" comment="" />
+      <created>1512409920691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1512409920691</updated>
+      <workItem from="1512409922602" duration="1848000" />
+      <workItem from="1512917665247" duration="596000" />
+      <workItem from="1513012888171" duration="1600000" />
+      <workItem from="1513055746016" duration="8863000" />
+      <workItem from="1513070620564" duration="1334000" />
+      <workItem from="1513171152927" duration="1888000" />
+      <workItem from="1513173054835" duration="15079000" />
+      <workItem from="1513258317793" duration="14132000" />
+      <workItem from="1513322980280" duration="4536000" />
+      <workItem from="1513336706246" duration="31000" />
+      <workItem from="1513337728580" duration="2861000" />
+      <workItem from="1513347127028" duration="2400000" />
+      <workItem from="1513352189015" duration="773000" />
+      <workItem from="1513521452908" duration="8823000" />
+      <workItem from="1513573832495" duration="656000" />
+      <workItem from="1513697703583" duration="11670000" />
+      <workItem from="1513742866694" duration="1453000" />
+      <workItem from="1513870738108" duration="3695000" />
+      <workItem from="1513959720127" duration="809000" />
+      <workItem from="1514043035048" duration="1807000" />
+      <workItem from="1514435488799" duration="8000" />
+      <workItem from="1514436080939" duration="152000" />
+      <workItem from="1514467247375" duration="626000" />
+      <workItem from="1514467994416" duration="27000" />
+      <workItem from="1514468031016" duration="3000" />
+      <workItem from="1515332158309" duration="2018000" />
+      <workItem from="1515386935663" duration="604000" />
+      <workItem from="1515418586265" duration="1874000" />
+      <workItem from="1515586829204" duration="8941000" />
+      <workItem from="1515657712347" duration="123000" />
+      <workItem from="1516204725794" duration="1828000" />
+      <workItem from="1516640441817" duration="3521000" />
+      <workItem from="1516720937314" duration="2563000" />
+      <workItem from="1516890491075" duration="6091000" />
+      <workItem from="1516976574638" duration="4190000" />
+      <workItem from="1517030811529" duration="2384000" />
+      <workItem from="1517151510419" duration="125000" />
+      <workItem from="1517305427984" duration="1900000" />
+      <workItem from="1517403279921" duration="596000" />
+      <workItem from="1517417929939" duration="601000" />
+      <workItem from="1517419538932" duration="1197000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="124226000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21449487" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3206951" sideWeight="0.5058565" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2985782" sideWeight="0.4941435" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3298969" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/storage/animate.min.css" />
+    <entry file="file://$PROJECT_DIR$/public/css/animate.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/scss/style.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/reset-password.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13872">
+          <caret line="816" column="17" lean-forward="false" selection-start-line="816" selection-start-column="17" selection-end-line="816" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/app.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3893">
+          <caret line="229" column="75" lean-forward="false" selection-start-line="229" selection-start-column="75" selection-end-line="229" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/topbar.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="26" lean-forward="false" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/index.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="32" lean-forward="false" selection-start-line="1" selection-start-column="32" selection-end-line="1" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/basicinfo.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/footer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.html" />
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/navigation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/overview.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="174" column="43" lean-forward="false" selection-start-line="174" selection-start-column="43" selection-end-line="174" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2017_12_04_180114_create_jobseeker_infos_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="4" column="45" lean-forward="true" selection-start-line="4" selection-start-column="45" selection-end-line="4" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/login.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="92" column="64" lean-forward="true" selection-start-line="92" selection-start-column="64" selection-end-line="92" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/layout.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="14" column="33" lean-forward="false" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/basic-info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="50" column="23" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="384" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/edit-basic-info.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="29" column="78" lean-forward="false" selection-start-line="29" selection-start-column="78" selection-end-line="29" selection-end-column="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Kernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/overview.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2091">
+          <caret line="123" column="53" lean-forward="false" selection-start-line="123" selection-start-column="53" selection-end-line="123" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Desktop/roles.sql" />
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/basic_info.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="148" lean-forward="false" selection-start-line="210" selection-start-column="136" selection-end-line="210" selection-end-column="148" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/my-profile.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="44" column="74" lean-forward="false" selection-start-line="44" selection-start-column="70" selection-end-line="44" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/kufinal/ku-medical-final-by-skr/public/js/ajaxFile/ajaxAdmitCard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="33" lean-forward="true" selection-start-line="9" selection-start-column="33" selection-end-line="9" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/phpunit/php-code-coverage/src/Filter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="144" column="51" lean-forward="false" selection-start-line="144" selection-start-column="51" selection-end-line="144" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/edit_jobseekeer_basic_info.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="124">
+          <caret line="178" column="76" lean-forward="false" selection-start-line="178" selection-start-column="76" selection-end-line="178" selection-end-column="129" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Jobseeker/JobseekerEducation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Jobseeker/JobseekerWorkExperience.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="99" lean-forward="false" selection-start-line="10" selection-start-column="99" selection-end-line="10" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerInfoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="62" column="52" lean-forward="false" selection-start-line="62" selection-start-column="52" selection-end-line="62" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Model/Jobseeker/JobseekerInfo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="74" lean-forward="false" selection-start-line="16" selection-start-column="74" selection-end-line="16" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_07_02_230147_migration_cartalyst_sentinel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="32" column="64" lean-forward="false" selection-start-line="32" selection-start-column="64" selection-end-line="32" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/register.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="7" lean-forward="false" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerEducationInfoController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="101" column="8" lean-forward="false" selection-start-line="101" selection-start-column="8" selection-end-line="101" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/create/createworkexperience.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="217" column="93" lean-forward="false" selection-start-line="217" selection-start-column="93" selection-end-line="217" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/editworkexperience.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4794">
+          <caret line="282" column="58" lean-forward="false" selection-start-line="282" selection-start-column="58" selection-end-line="282" selection-end-column="58" />
+          <folding>
+            <marker date="1516979736253" expanded="true" signature="9040:9086" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="9179:9198" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="9255:9267" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="9939:9956" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="9939:9960" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="9939:9964" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="10904:10945" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="11072:11115" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="11246:11292" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="11424:11468" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="12340:12361" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="13123:13141" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="13903:13921" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="14699:14720" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="15501:15508" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="15501:15513" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="15501:15522" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="16296:16315" ph="..." />
+            <marker date="1516979736253" expanded="true" signature="17120:17140" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerWorkExperienceController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="134" column="8" lean-forward="true" selection-start-line="134" selection-start-column="8" selection-end-line="134" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Jobseeker/JobseekerController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="56" lean-forward="false" selection-start-line="31" selection-start-column="56" selection-end-line="31" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker2/edit/edit-basic-info.html" />
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/create/createducation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="14" lean-forward="false" selection-start-line="191" selection-start-column="14" selection-end-line="191" selection-end-column="14" />
+          <folding>
+            <marker date="1513706040379" expanded="true" signature="9687:9699" ph="..." />
+            <marker date="1513706040379" expanded="true" signature="9808:9811" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker2/createeducation.blade.php" />
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/edit/editeducation.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4335">
+          <caret line="255" column="0" lean-forward="false" selection-start-line="255" selection-start-column="0" selection-end-line="255" selection-end-column="0" />
+          <folding>
+            <marker date="1513705869304" expanded="true" signature="9579:9638" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="9735:9754" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="9815:9827" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="9936:9939" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="10631:10672" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="11528:11573" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="11715:11762" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="11858:11908" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="12984:13000" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="12984:13020" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="13828:13862" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="14663:14690" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="14663:14695" ph="..." />
+            <marker date="1513705869304" expanded="true" signature="15496:15528" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/education.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="0" lean-forward="false" selection-start-line="210" selection-start-column="0" selection-end-line="210" selection-end-column="0" />
+          <folding>
+            <marker date="1516895738543" expanded="true" signature="9044:9057" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="9791:9804" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10030:10052" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10224:10280" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10432:10467" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10481:10514" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10607:10629" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10634:10674" ph="..." />
+            <marker date="1516895738543" expanded="true" signature="10747:10778" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/jobseeker/workexperience.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3247">
+          <caret line="191" column="50" lean-forward="false" selection-start-line="191" selection-start-column="50" selection-end-line="191" selection-end-column="50" />
+          <folding>
+            <marker date="1516898758925" expanded="true" signature="9437:9446" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9437:9457" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9630:9654" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9675:9699" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9778:9791" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9778:9809" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9815:9850" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9921:9948" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="9955:9980" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="10050:10068" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="10050:10077" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="10147:10173" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="10687:10737" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="10961:11014" ph="..." />
+            <marker date="1516898758925" expanded="true" signature="11306:11356" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Authentication/LoginController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Authentication/RegistrationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="16" lean-forward="false" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="17" column="18" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
